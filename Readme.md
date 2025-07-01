@@ -2,7 +2,13 @@
 
 > Una aplicación web de mindfulness y respiración guiada, creada completamente con **CSS puro** y JavaScript mínimo.
 
-![Demo](./demo.gif)
+![Demo](./assets/animaciones.gif)
+
+## 📖 Contexto del Proyecto
+
+Este proyecto fue desarrollado específicamente para acompañar nuestro artículo completo sobre animaciones CSS en **FemCoders Club**. Cada técnica implementada aquí se explica en detalle en el post, desde conceptos básicos hasta técnicas avanzadas de performance y accesibilidad.
+
+**🔗 Lee el artículo completo:** [Domina las Animaciones CSS: De Básico a Avanzado](https://www.femcodersclub.com/recursos/css/animaciones-css)
 
 ## 🌟 Características
 
@@ -15,7 +21,7 @@
 
 ## 🏃‍♀️ Demo en Vivo
 
-[👉 Ver Demo](https://tu-usuario.github.io/breathe-css-meditation)
+[👉 Ver Demo](https://femcodersclub.github.io/AnimacionesCSS/)
 
 ## 🧘 Ejercicios Incluidos
 
